@@ -436,17 +436,17 @@ article.skills-section ul li h3 {
 }
 
 article.skills-section ul li #thumb-visual {
-    background-image: url(../images/skills-thumb-icon_visual.svg);
+    background-image: url(../Images/skills-thumb-icon_visual.svg);
     background-color: #F36E4E;
 }
 
 article.skills-section ul li #thumb-ux {
-    background-image: url(../images/skills-thumb-icon_ux.svg);
+    background-image: url(../Images/skills-thumb-icon_ux.svg);
     background-color: #289BC7;
 }
 
 article.skills-section ul li #thumb-frontend {
-    background-image: url(../images/skills-thumb-icon_frontend.svg);
+    background-image: url(../Images/skills-thumb-icon_frontend.svg);
     background-color: #41AEA5;
 }
 
